@@ -2,7 +2,7 @@
 
 No boilerplate version for starting CRA
 
-See [full guide on how to make yourself](https://dev.to/alejandrogutierrezb/make-your-own-create-react-app-the-quick-and-easy-way-3elc).
+See [full guide on how to make it yourself](https://dev.to/alejandrogutierrezb/make-your-own-create-react-app-the-quick-and-easy-way-3elc).
 
 ## Usage
 
